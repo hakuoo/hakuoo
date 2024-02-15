@@ -1,7 +1,7 @@
 <img src="topo_readme.png" />
 
 <h2 align="center">
-    Hi, Im Ainns 🖖 aka. Sinan Yilmaz
+    Hi, Im Hakuo 🖖 aka. Sinan Yilmaz
 </h2>
 
 <p align="center">
